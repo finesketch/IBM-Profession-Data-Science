@@ -1,3 +1,0 @@
-Reference:
-
-https://github.com/nabeel3133/Introduction-to-Deep-Learning-and-Neural-Networks
